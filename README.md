@@ -1,4 +1,4 @@
-# MoBiletTest
+# MobiletTest
 
 This project was created to test the API of the app "qa-0.0.1-SNAPSHOT"
 
